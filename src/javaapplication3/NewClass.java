@@ -9,5 +9,5 @@ package javaapplication3;
  * @author 23042
  */
 public class NewClass {
-    
+    // V2
 }
